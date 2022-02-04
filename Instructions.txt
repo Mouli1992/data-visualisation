@@ -1,0 +1,9 @@
+**********************************************
+**********************************************
+##################Requirements################
+1. Working Internet Connection
+2. Chrome or Safari or Mozilla Browser (Not tested on Internet Explorer as I don't have access to it)
+##################Execution##################
+Execute index.html placed in ./data-visualisation/index.html
+*********************************************
+*********************************************
